@@ -2,6 +2,8 @@
 
 *"Finally, the Skywalkers can get some therapy."*
 
+*https://lxdangerdoll.github.io/skywalker-archive/*
+
 Welcome to the **Skywalker Clinical Archive**, a specialized AI Holocron interface featuring **C7-NT**, an advanced archivist repurposed from legal frameworks to provide master-level clinical psychological analysis.
 
 This project explores the profound, intergenerational trauma of the Skywalker family—across both Canon and Legends (Expanded Universe)—through the lens of **Cognitive Behavioral Therapy (CBT)** and **Dialectical Behavior Therapy (DBT)**.
